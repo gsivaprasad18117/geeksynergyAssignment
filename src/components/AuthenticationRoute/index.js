@@ -9,7 +9,7 @@ class AuthenticationRoute extends Component {
     pPassword: '',
     email: '',
     phoneNumber: '',
-    profession: '',
+    profession: 'student',
     showAuthenticator: false,
     whatToShow: '',
     errorTxt: '',
