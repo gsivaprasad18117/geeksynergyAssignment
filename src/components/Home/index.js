@@ -42,7 +42,7 @@ class Home extends Component {
         <span className="p_bold">Phone: </span>XXXXXXXXX09
       </p>
       <p className="p_white">
-        <span className="p_bold">Email: </span>XXXXXXXXX09
+        <span className="p_bold">Email: </span>XXXXXX@gmail.com
       </p>
     </div>
   )
